@@ -42,8 +42,9 @@ pip install -r requirements.txt
 5. Next -> Create user
 6. Download .csv -> Save Access Key ID and Secret Access Key
 
-### Step B: Attach the following policy
-[See iam.json]
+### Step B: ~~Attach the following policy~~
+~~[See iam.json]~~
+Use the Administrator Access Policy for now (demo purposes)
 
 ## Configure AWS Credentials
 ```bash
